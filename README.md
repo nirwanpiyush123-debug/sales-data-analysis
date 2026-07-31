@@ -47,7 +47,7 @@ sales-data-analysis
 
 # 📊 Dashboard Preview
 
-![Dashboard](img/dashboard.png)
+![Dashboard](img/sales-dashboard.png)
 
 ---
 
