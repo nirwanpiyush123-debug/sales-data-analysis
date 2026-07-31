@@ -61,7 +61,7 @@ sales-data-analysis
 
 ## Category Wise Profit
 
-![Category Profit]()
+![Category Profit](img/category-wise-profit.png)
 
 ---
 
