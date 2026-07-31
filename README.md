@@ -55,13 +55,13 @@ sales-data-analysis
 
 ## Category Wise Sales
 
-![Category Sales](img/category_sales.png)
+![Category Sales](img/Category-wise_sales.png)
 
 ---
 
 ## Category Wise Profit
 
-![Category Profit](img/category_profit.png)
+![Category Profit]()
 
 ---
 
