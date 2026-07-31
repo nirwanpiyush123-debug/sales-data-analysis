@@ -73,7 +73,7 @@ sales-data-analysis
 
 ## Segment Wise Sales
 
-![Segment Sales](img/segment_sales.png)
+![Segment Sales](img/segment-wise-sale.png)
 
 ---
 
