@@ -91,7 +91,7 @@ sales-data-analysis
 
 ## Top 10 Sub Categories
 
-![Top SubCategory](img/top10_subcategory.png)
+![Top SubCategory](img/top-10_sub-category-by-profit.png)
 
 ---
 
