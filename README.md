@@ -85,7 +85,7 @@ sales-data-analysis
 
 ## Top 10 Cities
 
-![Top Cities](img/top10_cities.png)
+![Top Cities](img/top-10_cities_by_sales.png)
 
 ---
 
