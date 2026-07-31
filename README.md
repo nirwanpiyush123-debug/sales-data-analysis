@@ -67,7 +67,7 @@ sales-data-analysis
 
 ## Region Wise Sales
 
-![Region Sales](img/region_sales.png)
+![Region Sales](img/rigion-wise-sales.png)
 
 ---
 
