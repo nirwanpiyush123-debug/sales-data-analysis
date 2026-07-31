@@ -79,7 +79,7 @@ sales-data-analysis
 
 ## Top 10 States
 
-![Top States](img/top10_states.png)
+![Top States](img/top-10_state_by_sales.png)
 
 ---
 
